@@ -7,6 +7,6 @@ Repo para crear imagenes con Sd-Medium 3.5
 Descarga el repo
 Accede a la carpeta
 Ejecuta:
-'''bash
+```bash
 uv sync
-'''
+```
